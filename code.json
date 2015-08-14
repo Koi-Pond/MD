@@ -1,7 +1,7 @@
 {
     "room": "Mind Decay",
     "author": "MindDecay",
-    "icon": null,
+    "icon": "http://i.imgur.com/iHqsgvI.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
