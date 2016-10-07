@@ -28,7 +28,7 @@
     },
     "images": {
         "background": "",
-        "playback": "http://i.imgur.com/EN6Twv5.png",
+        "playback": "https://rawgit.com/MindDecay/MD/master/images/playback.png",
         "admin": null,
         "ambassador": null,
         "host": "https://rawgit.com/MindDecay/MD/master/images/Host-Co-Host.png",
