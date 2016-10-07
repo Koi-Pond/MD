@@ -2,7 +2,7 @@
     "room": "Mind Decay EDM",
     "author": "Nishikigoi",
     "icon": "",
-    "css": "https://raw.githubusercontent.com/MindDecay/Radiant/master/css.css",
+    "css": "https://rawgit.com/MindDecay/MD/master/MD.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
