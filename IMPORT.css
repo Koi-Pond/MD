@@ -1,10 +1,3 @@
-.icon-room { 
-	width: 75px !important;
-	background: url('https://rawgit.com/MindDecay/MD/master/images/record-small.gif') !important;
-}
-#playback .background {
-    background: url('https://rawgit.com/MindDecay/MD/master/images/Playback-Large.png') !important;
-}
 #room-name, #room-host, #now-playing-dj, #now-playing-media {
     left: 89px !important;
     color: #fff !important;
