@@ -1,7 +1,7 @@
 {
     "room": "Mind Decay EDM",
     "author": "Nishikigoi",
-    "icon": "http://i.imgur.com/jcyMCAk.png",
+    "icon": "",
     "css": "https://rawgit.com/TheStrangerGuy/EDT/master/EDT.css",
     "rules": {
         "allowAutorespond": true,
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": "http://i.imgur.com/I2VG3fw.png",
+        "background": "",
         "playback": "http://i.imgur.com/EN6Twv5.png",
         "admin": null,
         "ambassador": "https://rawgit.com/TheStrangerGuy/EDT/master/images/BA.png",
