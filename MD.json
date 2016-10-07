@@ -1,7 +1,7 @@
 {
     "room": "Mind Decay EDM",
     "author": "Nishikigoi",
-    "icon": "",
+    "icon": "https://rawgit.com/MindDecay/MD/master/images/record-small.gif",
     "css": "https://rawgit.com/MindDecay/MD/master/MD.css",
     "rules": {
         "allowAutorespond": true,
