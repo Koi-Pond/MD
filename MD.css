@@ -2,7 +2,7 @@
 @import url("https://rawgit.com/MindDecay/Radiant/master/Staff.css");
 
 .icon-room { 
-	width: 75px !important;
+	width: 100px !important;
 }
 #room-name, #room-host, #now-playing-dj, #now-playing-media {
     left: 89px !important;
