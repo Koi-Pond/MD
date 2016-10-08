@@ -181,10 +181,10 @@ background: #aa74ff;
 
 /* Staff/Colouring */
 .icon-chat-host + span {
-    color: #228B22 !important;
+    color: #68B354 !important;
 }
 .icon-chat-cohost + span {
-    color: #228B22 !important;
+    color: #68B354 !important;
 }
 .icon-chat-manager + span {
     color: #68B354 !important;
@@ -198,7 +198,7 @@ background: #aa74ff;
 .icon-chat-subscriber + span {
     color: #68B354 !important;
 }
-.icon-chat-silversubscriber + span {
+.icon-chat-silver-subscriber + span {
     color: #68B354 !important;
 }
 .icon-chat-host {
