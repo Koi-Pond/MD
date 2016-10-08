@@ -179,7 +179,7 @@ background: #aa74ff;
 }
 /* Woot Grab Meh */
 
-/* Staff */
+/* Staff/Colouring */
 .icon-chat-host + span {
     color: #228B22 !important;
 }
@@ -193,6 +193,12 @@ background: #aa74ff;
     color: #68B354 !important;
 }
 .icon-chat-dj + span {
+    color: #68B354 !important;
+}
+.icon-chat-subscriber + span {
+    color: #68B354 !important;
+}
+.icon-chat-silversubscriber + span {
     color: #68B354 !important;
 }
 .icon-chat-host {
