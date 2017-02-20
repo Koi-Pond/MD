@@ -185,6 +185,7 @@ background: #aa74ff;
 	box-shadow: 0 0 0px !important;
 }
 #grab {
+	border-radius: 0 25px 0 0;
 	box-shadow: 0 0 0px !important;
 }
 #grab.selected, #grab-rs .title {
@@ -192,7 +193,7 @@ background: #aa74ff;
 }
 #meh {
 	box-shadow: 0 0 0px !important;
-	border-radius: 0 25px 5px 0;
+	border-radius: 25px 25px 5px 0;
 }
 #meh.selected, #meh-rs .title {
 	box-shadow: 0 0 0px !important;
