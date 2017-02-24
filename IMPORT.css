@@ -211,7 +211,7 @@ background: #aa74ff;
 /* Notifications */
 .notification {
 	border-radius: 25px;
-	background: rgba(80,240,94,.7);
+	background: rgba(80,240,71,.6);
 }
 #toast-notifications .left {
 	border-radius: 25px 0 0 25px;
