@@ -222,3 +222,33 @@ background: #aa74ff;
 	background: linear-gradient(rgba(255,255,255,.2), rgba(0,0,0,0)) !important;
 }
 /* Notifications */
+/* User Rollover */
+#user-rollover {
+	border-radius: 25px 25px 0 0;
+	background: linear-gradient(135deg, hsla(0,0%,0%,.8), hsla(0,0%,0%,.8));
+	box-shadow: 0 0 0 0 #000;
+}
+#user-rollover .info {
+	background: linear-gradient(hsla(140,100%,40%,.7), hsla(120,100%,20%,.5));
+	box-shadow: 0 0 0 0 #000;
+	border-radius: 25px 25px 0 0 !important;
+}
+#user-rollover .info i + span {
+	text-shadow: 0 0 0 0 #000;
+}
+#user-rollover .info .badge-box,
+#user-rollover .background,
+#video-only-dj .background,
+#search-suggestion,
+#search-suggestion ul {
+	background: rgba(0,0,0,0);
+}
+#user-rollover .action {
+	background: radial-gradient(hsla(120,100%,20%,.5), hsla(120,100%,20%,.5)) !important;
+	box-shadow: 0 0 0 0 #000 !important;
+}
+#user-rollover .action:hover {
+	background: radial-gradient(hsla(135,50%,50%,.5), hsla(135,50%,50%,.5)) !important;
+	box-shadow: 0 0 0 0 #000 !important;
+}
+/* User Rollover */
