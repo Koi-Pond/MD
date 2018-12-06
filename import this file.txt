@@ -1,1 +1,1 @@
-@import url("https://rawgit.com/MindDecay/MD/master/IMPORT.css");
+@import url("https://cdn.jsdelivr.net/gh/MindDecay/MD/IMPORT.css");
